@@ -2,7 +2,7 @@
 Sales Data Analysis Dashboard
 </h1>
 
-This is Analysis Dashboard of Sales Data in which the Key columns are include OrderID, Amount, Profit, Quantity, Category, Sub-category, Payment Mode from details datasheet And OrderID, Order Date, Customer(Name), State, City from Orders datasheet 
+This is Analysis Dashboard of Sales Data in which the Key columns are include OrderID, Amount, Profit, Quantity, Category, Sub-category, Payment Mode from details datasheet And OrderID, Order Date, Customer(Name), State, City from Orders datasheet.
 
 <h2>
 Now Let's overlook the Power Bi Dashboard -
